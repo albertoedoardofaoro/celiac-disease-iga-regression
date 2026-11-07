@@ -1,4 +1,4 @@
- Modelling IgA Antibody Levels in Celiac Disease
+# Modelling IgA Antibody Levels in Celiac Disease
  
 Statistical modelling project for the course *Applied Linear Models*. Using a clinical dataset on celiac disease, it models **IgA antibody levels** with linear regression in **R**, following the full applied workflow: exploration, model selection, diagnostics, prediction and simulation.
  
